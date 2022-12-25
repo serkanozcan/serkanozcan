@@ -1,8 +1,2 @@
 ### Serkan Ozcan
-Managing Partner at Teampro Bilişim Hizmetleri
-
-SAP Techincal Consultant with over 12 years of IT experience in various technologies with expert knowledge in Abap, SAP Fiori, SAPUI5 and Syclo Agentry.
-
-Developing games as a hobby.
-
-Specialties: Abap, SAP Fiori, SAPUI5, Architecture, Design, System Design, Performance, Integration, IDOC, EDI, SAP Mobile Platform, Sybase Unwired Platform, Web development SAP Gateway, iOS, HTML5, JavaScript, C#, Syclo, Agentry, Java
+Managing Partner at Teampro Bilişim Hizmetleri, I am a SAP Technical Consultant with over 12 years of IT experience in various technologies, and expert knowledge in Abap, SAP Fiori, SAPUI5, and Syclo Agentry. I also develop games as a hobby. My specialties include Abap, SAP Fiori, SAPUI5, architecture, design, system design, performance, integration, IDOC, EDI, SAP Mobile Platform, Sybase Unwired Platform, web development, SAP Gateway, iOS, HTML5, JavaScript, C#, Syclo, Agentry, and Java.
